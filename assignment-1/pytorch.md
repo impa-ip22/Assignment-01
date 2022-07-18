@@ -30,7 +30,7 @@ print(T.size())
 
 *Introduction to Neural Networks with Pytorch*
 
-[![Introdução ao PyTorch | Redes Neurais | Primeiros passos com Pytorch | Deep Learning #1](https://img.youtube.com/vi/cGxv8tOaA7I/0.jpg)](https://www.youtube.com/watch?v=cGxv8tOaA7I)
+[![Introdução ao PyTorch - Redes Neurais - Primeiros passos com Pytorch - Deep Learning #1](https://img.youtube.com/vi/cGxv8tOaA7I/0.jpg)](https://www.youtube.com/watch?v=cGxv8tOaA7I)
 
 
 
